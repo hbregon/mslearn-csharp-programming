@@ -1,0 +1,15 @@
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/bin/Debug/net9.0/07-create-a-leaderboard
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/bin/Debug/net9.0/07-create-a-leaderboard.deps.json
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/bin/Debug/net9.0/07-create-a-leaderboard.runtimeconfig.json
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/bin/Debug/net9.0/07-create-a-leaderboard.dll
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/bin/Debug/net9.0/07-create-a-leaderboard.pdb
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net9.0/07-create-a-leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net9.0/07-create-a-leaderboard.AssemblyInfoInputs.cache
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net9.0/07-create-a-leaderboard.AssemblyInfo.cs
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net9.0/07-create-a-leaderboard.csproj.CoreCompileInputs.cache
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net9.0/07-create-a-leaderboard.sourcelink.json
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net9.0/07-create-a-leaderboard.dll
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net9.0/refint/07-create-a-leaderboard.dll
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net9.0/07-create-a-leaderboard.pdb
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net9.0/07-create-a-leaderboard.genruntimeconfig.cache
+/Users/hermes/Desktop/Curso C#/mslearn-csharp/mslearn-csharp-programming/Labfiles/07-create-a-leaderboard/obj/Debug/net9.0/ref/07-create-a-leaderboard.dll
