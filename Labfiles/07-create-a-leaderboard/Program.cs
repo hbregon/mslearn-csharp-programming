@@ -21,6 +21,8 @@ allScores.Reverse();
 
 int[] topScores = new int[5];
 
+//Esto es una pruebas
+
 for (int i = 0; i < topScores.Length; i++)
 {
     topScores[i] = allScores[i];
